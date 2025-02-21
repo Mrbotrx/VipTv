@@ -12,9 +12,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 http://172.16.29.2:8090/hls/duronto.m3u8
 #EXTINF:-1, KB: Boomerang
 https://cdn2.moviehaat.net/storage1/moviehaat/Movies/Indian/Indian%20Bangla/2024/Boomerang/Boomerang%20(2024)%20Bengali%20Movie%201080P.mp4
-#EXTINF:-1, KB Devara+2024
-https://2475154962.tapecontent.net/radosgw/lQGOQoX3VPt7X6r/gSqHUsRKG6pBQ9TaNdLW2EMzUuuanBYB1tIREw0xhl7AKdEFVZowhc8heCWKu8tOEaWGHjajCKfC9oHkQI2FqRBZhnn1HzDw86xQI2K3_jrRw9mrGc5z0Sg2-rADPbuOzRh_-xonnWER6rHpVk-n1pbR-xdkeKm4DpT829wDLVK6qD4BxQVpbyJ5LfyyvIFIu5wyt56cWevvquYA4yfg87lDy0MzXsbnvaQwUrBE6UHKWz6j8r5a3M8k62LDJxKR53rQAiJFo6PXlwgEw_PnxIAMBHsQD0d8gTD9wF3gymORGmxCADqhtinWsoUIZlsYT7WTjsve7ej8XIu2GKavAfue7hla-hckt8wGug/Devara+2024+ORG+Hindi+Dubbed+www.moviespapa.chat+1080p+NF+HDRip+ESub+3GB.mkv.mp4?stream=1
-#EXTINF:-1, KB: Enter 10 Bangla
+#EXTINF:-1, KB Ntv 
+http://172.16.29.3:8090/hls/ntvbd.m3u8
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1, Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
