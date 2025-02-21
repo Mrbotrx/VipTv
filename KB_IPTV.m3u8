@@ -14,6 +14,7 @@ http://172.16.29.2:8090/hls/duronto.m3u8
 https://cdn2.moviehaat.net/storage1/moviehaat/Movies/Indian/Indian%20Bangla/2024/Boomerang/Boomerang%20(2024)%20Bengali%20Movie%201080P.mp4
 #EXTINF:-1, KB Ntv 
 http://172.16.29.3:8090/hls/ntvbd.m3u8
+#EXTINF:-1, KB enter 1o bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1, Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
