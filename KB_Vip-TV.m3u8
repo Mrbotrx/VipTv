@@ -10,6 +10,8 @@ http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Pushpa%202%20The%20Rule%20%
 #EXTINF:-1, KB: Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1, KB:duronto
+#EXTINF:-1 KB SONY 8 
+http://38.96.178.201/live/SonyAath/tracks-v1a1/mono.m3u8
 http://172.16.29.2:8090/hls/duronto.m3u8
 #EXTINF:-1, KB: Boomerang
 https://cdn2.moviehaat.net/storage1/moviehaat/Movies/Indian/Indian%20Bangla/2024/Boomerang/Boomerang%20(2024)%20Bengali%20Movie%201080P.mp4
