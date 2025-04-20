@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 KB MASRANGA TV
+http://103.230.105.252:1935/live/masranga/chunklist_w849214555.m3u8
 #EXTINF:-1, KB T-sports
 http://172.16.29.2:8090/hls/tsportshd_feed2.m3u8
 #EXTINF:-1, KB 9XM
