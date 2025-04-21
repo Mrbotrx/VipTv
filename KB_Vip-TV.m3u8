@@ -5,8 +5,8 @@ http://103.230.105.252:1935/live/masranga/chunklist_w849214555.m3u8
 http://172.16.29.2:8090/hls/tsportshd_feed2.m3u8
 #EXTINF:-1, KB 9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1, KB DBC NEWS
-https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=b06194043783fb276e1208a697602a4e4eee1a7a-2d3829eae505ece700b9b77ca8e1cfbe-1745173523-1745172623
+#EXTINF:-1, KB ZEE BANGLA 
+http://smart.bengaldigital.live/Zee-Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, KB: Pushpa 2
 http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Pushpa%202%20The%20Rule%20%282024%29%20Hindi%20720p%20HDRip%20x264%20ESub%20%5BDDN%5D/Pushpa%202%20The%20Rule%20%282024%29%20Hindi%20720p%20HDRip%20x264%20ESub%20%5BDDN%5D.mp4
 #EXTINF:-1, KB: Deepto TV HD
