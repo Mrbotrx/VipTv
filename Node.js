@@ -5,9 +5,9 @@ const app = express();
 app.get('/combined', async (req, res) => {
   try {
     const [res1, res2, res3] = await Promise.all([
-      axios.get('https://api1.example.com'),
-      axios.get('https://api2.example.com'),
-      axios.get('https://api3.example.com'),
+      axios.get('https://bikroy.com/data/phone_number_login/verifications/phone_login?phone='),
+      axios.get('https://prod-services.toffeelive.com/sms/v1/subscriber/otp'),
+      axios.get('https://api.rockstreamer.com/otp/api/v1/phone/otp'),
       // Add up to 10 APIs
     ]);
 
